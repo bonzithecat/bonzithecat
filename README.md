@@ -1,5 +1,5 @@
 <h1>
-  <img src="cat.gif" width="420" alt="image"/>
+  <img src="cat.gif" width="340" alt="image"/>
   <br>
   hey 👋, I'm bonzi&nbsp;&nbsp;&nbsp;
 </h1>
