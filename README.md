@@ -4,8 +4,7 @@
   hey 👋, I'm bonzi&nbsp;&nbsp;&nbsp;
 </h1>
 
-* interested in API and app reverse engineering, automation, [web scraping](https://github.com/user-attachments/assets/b3ebd97b-2832-41b6-ac65-f751a3400e07), network debugging, and web/android development (mildly obsessed with figuring out how things work).
-* full-time hating on using Selenium WebDriver for scraping websites (because apparently the best way to collect data is to recreate the entire human experience first :D).
+* interested in API and app reverse engineering, automation, [web scraping](https://github.com/user-attachments/assets/b3ebd97b-2832-41b6-ac65-f751a3400e07), network debugging, and web development (mildly obsessed with figuring out how things work).
 * used to work with leaked website data and automation of website endpoints.
 
 
