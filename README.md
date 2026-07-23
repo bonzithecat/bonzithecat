@@ -8,8 +8,6 @@
 
 ## currently contributing to:
 
-* [FreakLog](https://github.com/pilz0/better-journal) (better-journal): a modified and improved version of [PyschonautJournal](https://github.com/isaakhanimann/psychonautwiki-journal-android).
-* [AnodyneWiki](https://github.com/AnodyneWiki): templated maintainable pharmacology and harmreduction meta-wiki.
 
 
 ## i usually work with:
